@@ -1,0 +1,1 @@
+pyinstaller procon.py --onefile --icon=python_icon.ico
