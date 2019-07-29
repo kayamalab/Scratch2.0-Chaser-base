@@ -12,7 +12,8 @@
 * procon.exe http to Socket
 * プロコン拡張パッチ日本語版 HTTP Extensions のブロック情報
 # 使い方
-以下の通りに動作します。
+Scratchで書かれたbotとC#のbotの対戦は、以下の通りに動作します。
+COOLとHOTの接続方法は、Chaserの仕様書を確認してください。
 ![demo](https://raw.githubusercontent.com/kayamalab/Scratch2.0-Chaser-base/master/image/howtouse.gif)
 
 # Scratchに追加されるブロック
