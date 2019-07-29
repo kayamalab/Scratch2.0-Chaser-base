@@ -11,10 +11,6 @@
 * Scratchサーバー起動.bat procon.exeを最小化で起動するスクリプト
 * procon.exe http to Socket
 * プロコン拡張パッチ日本語版 HTTP Extensions のブロック情報
-# 使い方
-Scratchで書かれたbotとC#のbotの対戦は、以下の通りに動作します。
-COOLとHOTの接続方法は、Chaserの仕様書を確認してください。
-![demo](https://raw.githubusercontent.com/kayamalab/Scratch2.0-Chaser-base/master/image/howtouse.gif)
 
 # Scratchに追加されるブロック
 ## スタックブロック
@@ -52,3 +48,7 @@ IPアドレスの初期値は127.0.0.1
 procon.exeはPC1台につき1プロセスしか動作しません。
 よってScratchとScratchの対戦はPCが2台必要になることを注意してください。
 その際接続がうまく行かない場合は、IP及びポート番号、windowsのファイアウォールの設定が正しくできているかを確認してください。
+# 使い方
+Scratchで書かれたbotとC#のbotの対戦は、以下の通りに動作します。
+COOLとHOTの接続方法は、Chaserの仕様書を確認してください。
+![demo](https://raw.githubusercontent.com/kayamalab/Scratch2.0-Chaser-base/master/image/howtouse.gif)
