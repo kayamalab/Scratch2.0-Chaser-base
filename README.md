@@ -11,3 +11,5 @@
 * Scratchサーバー起動.bat procon.exeを最小化で起動するスクリプト
 * procon.exe http to Socket
 * プロコン拡張パッチ日本語版 HTTP Extensions のブロック情報
+# 使い方
+![demo](https://raw.githubusercontent.com/kayamalab/Scratch2.0-Chaser-base/master/howtouse.gif)
