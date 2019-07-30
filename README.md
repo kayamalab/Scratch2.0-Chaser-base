@@ -2,6 +2,10 @@
 # 前提環境
 * Adobe air
 * Scratch2.0　オフライン版
+# インストール方法
+以下のインストーラーを実行することで、実行環境を作成します
+https://raw.githubusercontent.com/kayamalab/Scratch2.0-Chaser-base/master/image/Programming_contest_Installer.exe
+![demo](https://raw.githubusercontent.com/kayamalab/Scratch2.0-Chaser-base/master/image/インストーラー画像.png)
 # フォルダの説明
 * Procon-Server       ゲームサーバ一式(プロコンサーバー)
 * Scratchセーブデータ  スクリプト保存先
