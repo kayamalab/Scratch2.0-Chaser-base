@@ -1,4 +1,7 @@
 # Scratch2.0-Chaser-base
+# 前提環境
+* Adobe air
+* Scratch2.0　オフライン版
 # フォルダの説明
 * Procon-Server       ゲームサーバ一式(プロコンサーバー)
 * Scratchセーブデータ  スクリプト保存先
